@@ -8,7 +8,7 @@ Questions in Sequential Order with Code link:-
 1. [Question 4](https://leetcode.com/problems/median-of-two-sorted-arrays) -> [Python3](./4/4.py)
 1. [Question 20](https://leetcode.com/problems/valid-parentheses) -> [Python3](./20/20.py)
 1. [Question 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) -> [C](./34/34.c) [Python3](./34/34.py)
-1. [Question 50](https://leetcode.com/problems/powx-n) -> [C](./50/50.c) [Python3](./50/50.py)
+1. [Question 50](https://leetcode.com/problems/powx-n) -> [C](./50/50.c) Using inbuilt Fns. -> [Python3](./50/50.py) [C](./50/50_simple.c)
 1. [Question 136](https://leetcode.com/problems/single-number) -> [C](./136/136.c) [Python3](./136/136.py)
 1. [Question 169](https://leetcode.com/problems/majority-element) -> [Python3](./169/169.py)
 1. [Question 192](https://leetcode.com/problems/word-frequency) -> [Bash/Shell](./192/192.sh)
