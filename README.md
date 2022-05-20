@@ -18,3 +18,4 @@ Questions in Sequential Order with Code link:-
 1. [Question 287](https://leetcode.com/problems/find-the-duplicate-number) -> [C](./287/287.c)
 1. [Question 389](https://leetcode.com/problems/find-the-difference) -> [C](./389/389.c)
 1. [Question 608](https://leetcode.com/problems/tree-node) -> [SQL](./608/608.txt)
+1. [Question 595](https://leetcode.com/problems/big-countries/) -> [SQL](./595/595.txt)
