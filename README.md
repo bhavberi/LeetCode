@@ -2,6 +2,9 @@
 
 [Leetcode Profile @bhavberi](https://leetcode.com/bhavberi/)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/bhavberi?theme=unicorn&font=milonga&extension=activity)
+-----
+
 Questions in Sequential Order with Code link:-
 
 1. [Question 1](https://leetcode.com/problems/two-sum) -> [Python](./1/1.py)
