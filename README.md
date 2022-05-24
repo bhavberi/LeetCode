@@ -8,9 +8,10 @@
 Questions in Sequential Order with Code link:-
 
 1. [Question 1](https://leetcode.com/problems/two-sum) -> [Python](./1/1.py)
-2. [Question 2](https://leetcode.com/problems/add-two-numbers/) -> [C](./2/2.c)
+1. [Question 2](https://leetcode.com/problems/add-two-numbers/) -> [C](./2/2.c)
 1. [Question 4](https://leetcode.com/problems/median-of-two-sorted-arrays) -> [Python3](./4/4.py)
 1. [Question 7](https://leetcode.com/problems/reverse-integer/) -> [C](./7/7.c) || [Python](./7/7.py)
+1. [Question 9](https://leetcode.com/problems/palindrome-number/) -> [C](./9/9.py)
 1. [Question 20](https://leetcode.com/problems/valid-parentheses) -> [C](./20/20.c) || [Python3](./20/20.py)
 1. [Question 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) -> [C](./34/34.c) || [Python3](./34/34.py)
 1. [Question 50](https://leetcode.com/problems/powx-n) -> [C](./50/50.c) &nbsp;&nbsp;&nbsp; Using inbuilt Fns. -> [Python3](./50/50.py) || [C](./50/50_simple.c)
