@@ -13,6 +13,7 @@ Questions in Sequential Order with Code link:-
 1. [Question 7](https://leetcode.com/problems/reverse-integer/) -> [C](./7/7.c) || [Python](./7/7.py)
 1. [Question 9](https://leetcode.com/problems/palindrome-number/) -> [C](./9/9.py)
 1. [Question 20](https://leetcode.com/problems/valid-parentheses) -> [C](./20/20.c) || [Python3](./20/20.py)
+1. [Question 28](https://leetcode.com/problems/implement-strstr/) -> [C](./28/28.py) || [Python3](./28/28.py)
 1. [Question 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) -> [C](./34/34.c) || [Python3](./34/34.py)
 1. [Question 50](https://leetcode.com/problems/powx-n) -> [C](./50/50.c) &nbsp;&nbsp;&nbsp; Using inbuilt Fns. -> [Python3](./50/50.py) || [C](./50/50_simple.c)
 1. [Question 136](https://leetcode.com/problems/single-number) -> [C](./136/136.c) || [Python3](./136/136.py)
