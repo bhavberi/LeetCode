@@ -20,6 +20,7 @@ Questions in Sequential Order with Code link:-
 1. [Question 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) -> [C](./34/34.c) || [Python3](./34/34.py)
 1. [Question 48](https://leetcode.com/problems/rotate-image) -> [Python](./48/48.py)
 1. [Question 50](https://leetcode.com/problems/powx-n) -> [C](./50/50.c) &nbsp;&nbsp;&nbsp; Using inbuilt Fns. -> [Python3](./50/50.py) || [C](./50/50_simple.c)
+1. [Question 100](https://leetcode.com/problems/same-tree/) -> [C](./100/100.c)
 1. [Question 136](https://leetcode.com/problems/single-number) -> [C](./136/136.c) || [Python3](./136/136.py)
 1. [Question 169](https://leetcode.com/problems/majority-element) -> [Python3](./169/169.py)
 1. [Question 192](https://leetcode.com/problems/word-frequency) -> [Bash/Shell](./192/192.sh)
